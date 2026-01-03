@@ -9,7 +9,7 @@
 ### Introduction
 
 **a. Overview of Problem**
-Stablecoins are crucial part of the broader cryptocurrency ecosystem. They allow users to invest and use volatile cryptocurrency assets while giving the option of safety without have to do a trade back to a fiat currency. The issue is that stablecoins either private companies mint and moderated them (USDC)
+Stablecoins are crucial part of the broader cryptocurrency ecosystem. They allow users to invest and use volatile cryptocurrency assets while giving the option of safety without have to do a trade back to a fiat currency. The issue is that stablecoins either private companies mint and moderated them (ex. USDC, USDT) or rely on unverifiable valuation sources
 
 **b. Glossary or Terminology**
 
