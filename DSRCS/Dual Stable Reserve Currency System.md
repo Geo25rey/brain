@@ -22,6 +22,8 @@ Stablecoins are crucial part of the broader cryptocurrency ecosystem. They allow
 - Exchange currency: a currency used by consumers and producers to trade and exchanges goods or services
 - Reserve currency: a currency to act as a backing for the exchange currency typically backed by appreciating assets like Bitcoin, the S&P 500 index fund, and real estate
 
+*This is a simplified definition for the cocieseness of this sp
+
 **c. Context or Background**
 
 - Reasons why the problem is worth solving
