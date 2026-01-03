@@ -4,9 +4,9 @@
 	- TBD
 - Created on: January 3rd, 2026
 - Last updated: See Git commit time
-- Epic, ticket, issue, or task tracker reference link
+- Epic, ticket, issue, or task tracker reference link: TBD
 
-### [](https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/#h3-2658094fd3af0 "Permalink to this heading")2. Introduction
+### 2. Introduction
 
 **a. Overview, Problem Description, Summary, or Abstract**
 
