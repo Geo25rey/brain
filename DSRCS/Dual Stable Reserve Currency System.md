@@ -244,4 +244,4 @@
 **c. Acknowledgments**
 
 - Credit people who have contributed to the design that you wish to recognize.
-- Outline Templatte: [A practical guide to writing technical specs - Stack Overflow](https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/)
+- Outline Template: [A practical guide to writing technical specs - Stack Overflow](https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/)
