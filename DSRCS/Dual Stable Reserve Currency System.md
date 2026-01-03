@@ -19,6 +19,7 @@ Stablecoins are crucial part of the broader cryptocurrency ecosystem. They allow
 - Blockchain: a decentralized group of enterprises and individuals alike that order and finalize currency transactions*
 - Cryptocurrency: a currency that is decentralized usually by means of blockchain
 - Stablecoin: a fiat valued cryptocurrency
+- 
 - Exchange currency: a currency used by consumers and producers to trade and exchanges goods or services
 - Reserve currency: a currency to act as a backing for the exchange currency typically backed by appreciating assets like Bitcoin, the S&P 500 index fund, and real estate
 
@@ -27,7 +28,7 @@ Stablecoins are crucial part of the broader cryptocurrency ecosystem. They allow
 **c. Context or Background**
 
 - Reasons why the problem is worth solving
-	- There are many problems with
+	- There are many problems with current stablecoins. 
 - Origin of the problem
 - How the problem affects users and company goals
 - Past efforts made to solve the solution and why they were not effective
