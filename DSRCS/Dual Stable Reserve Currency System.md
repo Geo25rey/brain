@@ -14,7 +14,7 @@ Stablecoins are crucial part of the broader cryptocurrency ecosystem. They allow
 
 **b. Glossary or Terminology**
 
-- Stablecoins
+- Stablecoin: a fiat valued cryptocurrency
 
 **c. Context or Background**
 
