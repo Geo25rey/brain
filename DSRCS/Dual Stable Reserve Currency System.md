@@ -16,7 +16,7 @@ Stablecoins are crucial part of the broader cryptocurrency ecosystem. They allow
 
 - Stablecoin: a fiat valued cryptocurrency
 - Exchange currency: a currency used by consumers and producers to trade and exchanges goods or services
-- Reserve currency: a currency to act as a backing for the exchange currency typically backed by growth assets
+- Reserve currency: a currency to act as a backing for the exchange currency typically backed by appreciating assets like Bitcoin, the S&P 500 index fund, and real estate
 
 **c. Context or Background**
 
