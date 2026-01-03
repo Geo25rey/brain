@@ -6,11 +6,10 @@
 - Last updated: See Git commit time
 - Epic, ticket, issue, or task tracker reference link: TBD
 
-### 2. Introduction
+### Introduction
 
-**a. Overview, Problem Description, Summary, or Abstract**
+**a. Overview of Problem**
 
-- Summary of the problem (from the perspective of the user), the context, suggested solution, and the stakeholders.
 
 **b. Glossary or Terminology**
 
