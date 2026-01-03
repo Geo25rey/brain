@@ -15,7 +15,7 @@ Stablecoins are crucial part of the broader cryptocurrency ecosystem. They allow
 **b. Glossary or Terminology**
 
 - Currency: a tradable asset that represents some value
-- Decentrali
+- Decentralized: not controllable by any government or private enterprise
 - Cryptocurrency: a currency that is decentralized usually by means of blockchain
 - Stablecoin: a fiat valued cryptocurrency
 - Exchange currency: a currency used by consumers and producers to trade and exchanges goods or services
