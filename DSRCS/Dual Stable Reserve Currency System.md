@@ -9,7 +9,7 @@
 ### Introduction
 
 **a. Overview of Problem**
-Stablecoins are crutial part of the cryptocurrency ecosystem as a whole
+Stablecoins are crucial part of the broader cryptocurrency ecosystem. 
 
 **b. Glossary or Terminology**
 
