@@ -9,7 +9,7 @@
 ### Introduction
 
 **a. Overview of Problem**
-Stablecoins are crucial part of the broader cryptocurrency ecosystem. They allow users to invest and use volatile cryptocurrency assets while giving the option of safety
+Stablecoins are crucial part of the broader cryptocurrency ecosystem. They allow users to invest and use volatile cryptocurrency assets while giving the option of safety without have to 
 
 **b. Glossary or Terminology**
 
