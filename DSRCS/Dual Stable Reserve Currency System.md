@@ -27,6 +27,7 @@ Stablecoins are crucial part of the broader cryptocurrency ecosystem. They allow
 **c. Context or Background**
 
 - Reasons why the problem is worth solving
+	- There are many problems with
 - Origin of the problem
 - How the problem affects users and company goals
 - Past efforts made to solve the solution and why they were not effective
