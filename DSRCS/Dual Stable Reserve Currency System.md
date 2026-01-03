@@ -1,9 +1,7 @@
-### [](https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/#h3-171a2e72e9fb0 "Permalink to this heading")1. Front matter
-
-- Title
 - Author(s)
-- Team
+	- Geoffrey Casper
 - Reviewer(s)
+	- TBD
 - Created on
 - Last updated
 - Epic, ticket, issue, or task tracker reference link
